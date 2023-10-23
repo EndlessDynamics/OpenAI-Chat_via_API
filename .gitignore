@@ -1,7 +1,8 @@
 # Generated Files
-Logs/*
-ChatHistory/*
-
+OpenAI-Chat_via_API/Logs/*
+!OpenAI-Chat_via_API/Logs/.gitkeep
+OpenAI-Chat_via_API/ChatHistory/*
+!OpenAI-Chat_via_API/ChatHistory/.gitkeep
 
 ### Created by https://www.toptal.com/developers/gitignore/api/windows,python,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,python,visualstudiocode
